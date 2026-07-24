@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-fsae93.keitaro-tech-rtb.online/sitemap.xml
